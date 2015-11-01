@@ -1,4 +1,4 @@
-# **Tema:** Video nadzor
+# Video nadzor
 
 **Oblast:** Baze podataka (BP)
 
